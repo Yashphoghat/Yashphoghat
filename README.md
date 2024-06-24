@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **full-stack web development**
 
-- 🤝 I’m looking for help with **Genrative AI**
+- 🤝 I’m looking for help with **Generative  AI**
 
 - 📫 How to reach me **yprivate61@gmail.com**
 
